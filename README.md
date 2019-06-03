@@ -12,4 +12,8 @@ Version 600 (rebooted):
 
     notificationChannel.setVibrationPattern(new long[] {});
     
-This application provides a reproducible method of expthe problem. Clicking on the bad notification channel button will immediately cause an LG V20 (are other devices impacted?) to reboot. Clicking on the good notification channel button will work as intended.
+This application provides a reproducible method of creating the problem. Clicking on the bad notification channel button will immediately cause an LG V20 (are other devices impacted?) to reboot. Clicking on the good notification channel button will work as intended.
+
+Video of the issue:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kXIq_EfV27g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
