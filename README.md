@@ -16,4 +16,4 @@ This application provides a reproducible method of creating the problem. Clickin
 
 Video of the issue:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kXIq_EfV27g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![VIDEO - LG Notification Channel Crash](http://img.youtube.com/vi/kXIq_EfV27g/0.jpg)](http://www.youtube.com/watch?v=kXIq_EfV27g "LG Notification Channel Crash")
